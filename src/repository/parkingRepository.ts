@@ -48,6 +48,4 @@ const ParkingRepository = (parkingCapacity: number): any => {
     }
 };
 
-module.exports = {
-    ParkingRepository
-}
+module.exports(ParkingRepository);
