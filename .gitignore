@@ -1,3 +1,4 @@
 .idea/
 ts-fundamental.iml
 bundle/
+node_modules
